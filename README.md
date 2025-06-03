@@ -18,7 +18,7 @@ O objetivo principal do app é agilizar o processo de manutenção, evitando per
 ---
 
 ## 🖼️ Captura de Tela
-<img src="![image](https://github.com/user-attachments/assets/ab3f5c8e-8630-40ce-9cf1-b3c864d36bf2)" width="500" height="1080"/>
+<img src="https://github.com/rafamar9806/app-ufms1/blob/main/Captura%20de%20imagem_20250531_104618.png?raw=true" width="500" height="1080"/>
 
 <img src="https://github.com/rafamar9806/app-ufms1/blob/main/Captura%20de%20imagem_20250531_104945.png?raw=true" width="500" height="1080"/>
 
